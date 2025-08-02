@@ -32,3 +32,18 @@ Kaggle Dataset: https://www.kaggle.com/datasets/sampadab17/networkintrusion-dete
 
 IBM AutoAI Docs: https://dataplatform.cloud.ibm.com/docs/content/wsj/analyze-data/autoai-overview.html
 
+---
+
+## 🎯RESULTS
+*-Metric Chart*
+![Metric Chart](images/MetricChart.png)
+
+*-Prediction result of test dataset*
+![Prediction Result](images/Prediction.png)
+
+*-Relationship Map*
+![Relationship Map](images/RelationshipMap.png)
+
+*-Progress Map*
+![Progress Map](images/progressmap.png)
+
