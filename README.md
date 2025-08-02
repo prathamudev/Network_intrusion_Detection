@@ -6,6 +6,10 @@ This project is Created using IBM's cloud platform using No-code Machine Learnin
 Communication networks are increasingly vulnerable to cyber-attacks such as DoS, Probe, R2L, and U2R. Early detection of intrusions is critical to maintaining network integrity and preventing data breaches. This project aims to build a machine learning model that can analyze network traffic and classify activity as normal or potentially malicious.
 
 ---
+## 📈Progess Map
+
+![Progress Map Image](screenshot(21).png)
+
 
 ## 🚀 Features
 
